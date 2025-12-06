@@ -1,0 +1,7 @@
+"<!DOCTYPE html>" 
+"<html>" 
+"<body class='bg-gray-100 p-8'>" 
+"<h1 class='text-3xl font-bold text-blue-600'>Test Tailwind</h1>" 
+"<p class='text-gray-700 mt-4'>This is a test paragraph.</p>" 
+"</body>" 
+"</html>" 
